@@ -34612,7 +34612,7 @@ const Home = ()=>{
                     }, void 0, false, {
                         fileName: "src/components/Home.js",
                         lineNumber: 25,
-                        columnNumber: 3
+                        columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                         className: "text-slate-800 text-base sm:text-lg",
@@ -34620,7 +34620,7 @@ const Home = ()=>{
                     }, void 0, false, {
                         fileName: "src/components/Home.js",
                         lineNumber: 26,
-                        columnNumber: 3
+                        columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
                         className: "text-blue-950 text-2xl sm:text-3xl my-4 sm:my-6",
@@ -34628,7 +34628,7 @@ const Home = ()=>{
                     }, void 0, false, {
                         fileName: "src/components/Home.js",
                         lineNumber: 30,
-                        columnNumber: 3
+                        columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                         className: "text-slate-800 text-base sm:text-lg",
@@ -34636,7 +34636,7 @@ const Home = ()=>{
                     }, void 0, false, {
                         fileName: "src/components/Home.js",
                         lineNumber: 31,
-                        columnNumber: 3
+                        columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
                         className: "text-blue-950 text-2xl sm:text-3xl my-4 sm:my-6",
@@ -34644,7 +34644,7 @@ const Home = ()=>{
                     }, void 0, false, {
                         fileName: "src/components/Home.js",
                         lineNumber: 35,
-                        columnNumber: 3
+                        columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                         className: "text-slate-800 text-base sm:text-lg",
@@ -34652,7 +34652,7 @@ const Home = ()=>{
                     }, void 0, false, {
                         fileName: "src/components/Home.js",
                         lineNumber: 36,
-                        columnNumber: 3
+                        columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
@@ -34673,7 +34673,7 @@ const Home = ()=>{
                             children: "WHY GY OVERSEAS EDUCATION LIMITED?"
                         }, void 0, false, {
                             fileName: "src/components/Home.js",
-                            lineNumber: 46,
+                            lineNumber: 45,
                             columnNumber: 9
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34690,14 +34690,14 @@ const Home = ()=>{
                                                     children: "GY OVERSEAS"
                                                 }, void 0, false, {
                                                     fileName: "src/components/Home.js",
-                                                    lineNumber: 52,
+                                                    lineNumber: 51,
                                                     columnNumber: 21
                                                 }, undefined),
                                                 " commit to strive for total customer satisfaction through:"
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/components/Home.js",
-                                            lineNumber: 51,
+                                            lineNumber: 50,
                                             columnNumber: 13
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
@@ -34710,14 +34710,14 @@ const Home = ()=>{
                                                             className: "text-lg md:text-xl text-blue-950 mr-2"
                                                         }, void 0, false, {
                                                             fileName: "src/components/Home.js",
-                                                            lineNumber: 56,
+                                                            lineNumber: 55,
                                                             columnNumber: 17
                                                         }, undefined),
                                                         "Delivery of Services with Full Conformity to Customer Needs & Expectations."
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/components/Home.js",
-                                                    lineNumber: 55,
+                                                    lineNumber: 54,
                                                     columnNumber: 15
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
@@ -34727,14 +34727,14 @@ const Home = ()=>{
                                                             className: "text-lg md:text-xl text-blue-950 mr-2"
                                                         }, void 0, false, {
                                                             fileName: "src/components/Home.js",
-                                                            lineNumber: 60,
+                                                            lineNumber: 59,
                                                             columnNumber: 17
                                                         }, undefined),
                                                         "Continual Improvement in the Effectiveness of Systems through Regular Review."
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/components/Home.js",
-                                                    lineNumber: 59,
+                                                    lineNumber: 58,
                                                     columnNumber: 15
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
@@ -34744,14 +34744,14 @@ const Home = ()=>{
                                                             className: "text-lg md:text-xl text-blue-950 mr-2"
                                                         }, void 0, false, {
                                                             fileName: "src/components/Home.js",
-                                                            lineNumber: 64,
+                                                            lineNumber: 63,
                                                             columnNumber: 17
                                                         }, undefined),
                                                         "Training & Development of Our Workforce."
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/components/Home.js",
-                                                    lineNumber: 63,
+                                                    lineNumber: 62,
                                                     columnNumber: 15
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
@@ -34761,14 +34761,14 @@ const Home = ()=>{
                                                             className: "text-lg md:text-xl text-blue-950 mr-2"
                                                         }, void 0, false, {
                                                             fileName: "src/components/Home.js",
-                                                            lineNumber: 68,
+                                                            lineNumber: 67,
                                                             columnNumber: 17
                                                         }, undefined),
                                                         "We Offer Trustworthy and Convenient Solutions to Your Forex Needs at the Best Rates."
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/components/Home.js",
-                                                    lineNumber: 67,
+                                                    lineNumber: 66,
                                                     columnNumber: 15
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
@@ -34778,14 +34778,14 @@ const Home = ()=>{
                                                             className: "text-lg md:text-xl text-blue-950 mr-2"
                                                         }, void 0, false, {
                                                             fileName: "src/components/Home.js",
-                                                            lineNumber: 72,
+                                                            lineNumber: 71,
                                                             columnNumber: 17
                                                         }, undefined),
                                                         "We Have Streamlined, Easy-To-Do and Fast Operational Procedures to Help Customers Make Swift Telegraphic Transfers."
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/components/Home.js",
-                                                    lineNumber: 71,
+                                                    lineNumber: 70,
                                                     columnNumber: 15
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
@@ -34795,20 +34795,20 @@ const Home = ()=>{
                                                             className: "text-lg md:text-xl text-blue-950 mr-2"
                                                         }, void 0, false, {
                                                             fileName: "src/components/Home.js",
-                                                            lineNumber: 76,
+                                                            lineNumber: 75,
                                                             columnNumber: 17
                                                         }, undefined),
                                                         "Our World-Class Services Work On Stout Systems & Processes That Brings Us Closer to the Customer."
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/components/Home.js",
-                                                    lineNumber: 75,
+                                                    lineNumber: 74,
                                                     columnNumber: 15
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/components/Home.js",
-                                            lineNumber: 54,
+                                            lineNumber: 53,
                                             columnNumber: 13
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
@@ -34817,13 +34817,13 @@ const Home = ()=>{
                                             children: "GET IN TOUCH"
                                         }, void 0, false, {
                                             fileName: "src/components/Home.js",
-                                            lineNumber: 80,
+                                            lineNumber: 79,
                                             columnNumber: 13
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/components/Home.js",
-                                    lineNumber: 50,
+                                    lineNumber: 49,
                                     columnNumber: 11
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34836,7 +34836,7 @@ const Home = ()=>{
                                                     className: "text-4xl md:text-6xl pr-4 md:pr-8"
                                                 }, void 0, false, {
                                                     fileName: "src/components/Home.js",
-                                                    lineNumber: 86,
+                                                    lineNumber: 85,
                                                     columnNumber: 15
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34845,26 +34845,26 @@ const Home = ()=>{
                                                             children: "100%"
                                                         }, void 0, false, {
                                                             fileName: "src/components/Home.js",
-                                                            lineNumber: 88,
+                                                            lineNumber: 87,
                                                             columnNumber: 17
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                                             children: "TRANSPARENT"
                                                         }, void 0, false, {
                                                             fileName: "src/components/Home.js",
-                                                            lineNumber: 89,
+                                                            lineNumber: 88,
                                                             columnNumber: 17
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/components/Home.js",
-                                                    lineNumber: 87,
+                                                    lineNumber: 86,
                                                     columnNumber: 15
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/components/Home.js",
-                                            lineNumber: 85,
+                                            lineNumber: 84,
                                             columnNumber: 13
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34874,7 +34874,7 @@ const Home = ()=>{
                                                     className: "text-4xl md:text-6xl pr-4 md:pr-8"
                                                 }, void 0, false, {
                                                     fileName: "src/components/Home.js",
-                                                    lineNumber: 93,
+                                                    lineNumber: 92,
                                                     columnNumber: 15
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34883,26 +34883,26 @@ const Home = ()=>{
                                                             children: "PROGRESSIVE"
                                                         }, void 0, false, {
                                                             fileName: "src/components/Home.js",
-                                                            lineNumber: 95,
+                                                            lineNumber: 94,
                                                             columnNumber: 17
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                                             children: "APPROACH"
                                                         }, void 0, false, {
                                                             fileName: "src/components/Home.js",
-                                                            lineNumber: 96,
+                                                            lineNumber: 95,
                                                             columnNumber: 17
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/components/Home.js",
-                                                    lineNumber: 94,
+                                                    lineNumber: 93,
                                                     columnNumber: 15
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/components/Home.js",
-                                            lineNumber: 92,
+                                            lineNumber: 91,
                                             columnNumber: 13
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34912,7 +34912,7 @@ const Home = ()=>{
                                                     className: "text-4xl md:text-6xl pr-4 md:pr-8"
                                                 }, void 0, false, {
                                                     fileName: "src/components/Home.js",
-                                                    lineNumber: 100,
+                                                    lineNumber: 99,
                                                     columnNumber: 15
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34921,26 +34921,26 @@ const Home = ()=>{
                                                             children: "TIMELY"
                                                         }, void 0, false, {
                                                             fileName: "src/components/Home.js",
-                                                            lineNumber: 102,
+                                                            lineNumber: 101,
                                                             columnNumber: 17
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                                             children: "DELIVERY"
                                                         }, void 0, false, {
                                                             fileName: "src/components/Home.js",
-                                                            lineNumber: 103,
+                                                            lineNumber: 102,
                                                             columnNumber: 17
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/components/Home.js",
-                                                    lineNumber: 101,
+                                                    lineNumber: 100,
                                                     columnNumber: 15
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/components/Home.js",
-                                            lineNumber: 99,
+                                            lineNumber: 98,
                                             columnNumber: 13
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34950,7 +34950,7 @@ const Home = ()=>{
                                                     className: "text-4xl md:text-6xl pr-4 md:pr-8"
                                                 }, void 0, false, {
                                                     fileName: "src/components/Home.js",
-                                                    lineNumber: 107,
+                                                    lineNumber: 106,
                                                     columnNumber: 15
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34959,60 +34959,60 @@ const Home = ()=>{
                                                             children: "CUSTOMER"
                                                         }, void 0, false, {
                                                             fileName: "src/components/Home.js",
-                                                            lineNumber: 109,
+                                                            lineNumber: 108,
                                                             columnNumber: 17
                                                         }, undefined),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                                             children: "IS SUPREME"
                                                         }, void 0, false, {
                                                             fileName: "src/components/Home.js",
-                                                            lineNumber: 110,
+                                                            lineNumber: 109,
                                                             columnNumber: 17
                                                         }, undefined)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "src/components/Home.js",
-                                                    lineNumber: 108,
+                                                    lineNumber: 107,
                                                     columnNumber: 15
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/components/Home.js",
-                                            lineNumber: 106,
+                                            lineNumber: 105,
                                             columnNumber: 13
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/components/Home.js",
-                                    lineNumber: 84,
+                                    lineNumber: 83,
                                     columnNumber: 11
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/components/Home.js",
-                            lineNumber: 49,
+                            lineNumber: 48,
                             columnNumber: 9
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/components/Home.js",
-                    lineNumber: 45,
+                    lineNumber: 44,
                     columnNumber: 7
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/components/Home.js",
-                lineNumber: 41,
+                lineNumber: 40,
                 columnNumber: 1
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _prepExamDefault.default), {}, void 0, false, {
                     fileName: "src/components/Home.js",
-                    lineNumber: 118,
+                    lineNumber: 117,
                     columnNumber: 12
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/components/Home.js",
-                lineNumber: 118,
+                lineNumber: 117,
                 columnNumber: 7
             }, undefined)
         ]
