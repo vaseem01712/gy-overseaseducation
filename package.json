@@ -1,0 +1,42 @@
+{
+  "name": "gy-overseaseducation",
+  "version": "1.0.0",
+  "description": "This is an immigration application by Shweta",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shweta74/gy-overseaseducation.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Shweta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shweta74/gy-overseaseducation/issues"
+  },
+  "homepage": "https://github.com/Shweta74/gy-overseaseducation#readme",
+  "devDependencies": {
+    "daisyui": "^4.12.14",
+    "parcel": "^2.12.0",
+    "postcss": "^8.4.35",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "@material-tailwind/react": "^2.1.9",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.0",
+    "nodemailer": "^6.10.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1",
+    "react-router-dom": "^6.22.3"
+  },
+  "main": "App.js"
+}
