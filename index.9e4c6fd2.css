@@ -492,6 +492,35 @@ html {
   }
 }
 
+.alert {
+  text-align: center;
+  border-radius: var(--rounded-box, 1rem);
+  --tw-border-opacity: 1;
+  border-width: 1px;
+  border-color: var(--fallback-b2, oklch(var(--b2) / var(--tw-border-opacity)));
+  --tw-text-opacity: 1;
+  color: var(--fallback-bc, oklch(var(--bc) / var(--tw-text-opacity)));
+  --alert-bg: var(--fallback-b2, oklch(var(--b2) / 1));
+  --alert-bg-mix: var(--fallback-b1, oklch(var(--b1) / 1));
+  background-color: var(--alert-bg);
+  grid-auto-flow: row;
+  align-content: flex-start;
+  place-items: center;
+  gap: 1rem;
+  width: 100%;
+  padding: 1rem;
+  display: grid;
+}
+
+@media (width >= 640px) {
+  .alert {
+    text-align: start;
+    grid-template-columns: auto minmax(auto, 1fr);
+    grid-auto-flow: column;
+    justify-items: start;
+  }
+}
+
 .avatar.placeholder > div {
   justify-content: center;
   align-items: center;
@@ -863,18 +892,6 @@ input.tab:checked + .tab-content, :is(.tab-active, [aria-selected="true"]) + .ta
   outline: 2px solid;
 }
 
-.loading {
-  pointer-events: none;
-  aspect-ratio: 1;
-  background-color: currentColor;
-  width: 1.5rem;
-  display: inline-block;
-  mask-image: url("data:image/svg+xml,%3Csvg width='24' height='24' stroke='%23000' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cstyle%3E.spinner_V8m1%7Btransform-origin:center;animation:spinner_zKoa 2s linear infinite%7D.spinner_V8m1 circle%7Bstroke-linecap:round;animation:spinner_YpZS 1.5s ease-out infinite%7D%40keyframes spinner_zKoa%7B100%25%7Btransform:rotate(360deg)%7D%7D%40keyframes spinner_YpZS%7B0%25%7Bstroke-dasharray:0 150;stroke-dashoffset:0%7D47.5%25%7Bstroke-dasharray:42 150;stroke-dashoffset:-16%7D95%25%2C100%25%7Bstroke-dasharray:42 150;stroke-dashoffset:-59%7D%7D%3C%2Fstyle%3E%3Cg class='spinner_V8m1'%3E%3Ccircle cx='12' cy='12' r='9.5' fill='none' stroke-width='3'%3E%3C%2Fcircle%3E%3C%2Fg%3E%3C%2Fsvg%3E");
-  mask-position: center;
-  mask-size: 100%;
-  mask-repeat: no-repeat;
-}
-
 :where(.menu li:empty) {
   --tw-bg-opacity: 1;
   background-color: var(--fallback-bc, oklch(var(--bc) / var(--tw-bg-opacity)));
@@ -944,6 +961,12 @@ input.tab:checked + .tab-content, :is(.tab-active, [aria-selected="true"]) + .ta
 .menu :where(li > details[open] > summary):after, .menu :where(li > .menu-dropdown-toggle.menu-dropdown-show):after {
   margin-top: 0;
   transform: rotate(225deg);
+}
+
+.mockup-phone .display {
+  border-radius: 40px;
+  margin-top: -25px;
+  overflow: hidden;
 }
 
 .mockup-browser .mockup-browser-toolbar .input {
@@ -1335,6 +1358,10 @@ input.tab:checked + .tab-content, :is(.tab-active, [aria-selected="true"]) + .ta
     opacity: 1;
     transform: scale(1);
   }
+}
+
+.artboard.phone {
+  width: 320px;
 }
 
 .btm-nav-xs > :where(.active) {
@@ -1794,6 +1821,10 @@ input.tab:checked + .tab-content, :is(.tab-active, [aria-selected="true"]) + .ta
   max-width: 768px;
 }
 
+.max-w-screen-xl {
+  max-width: 1280px;
+}
+
 .flex-shrink-0 {
   flex-shrink: 0;
 }
@@ -1813,6 +1844,10 @@ input.tab:checked + .tab-content, :is(.tab-active, [aria-selected="true"]) + .ta
 
 .cursor-pointer {
   cursor: pointer;
+}
+
+.resize {
+  resize: both;
 }
 
 .grid-cols-1 {
@@ -2396,6 +2431,11 @@ body {
   --tw-scale-x: 1.1;
   --tw-scale-y: 1.1;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.hover\:bg-blue-900:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(30 58 138 / var(--tw-bg-opacity));
 }
 
 .hover\:bg-gray-200:hover {
