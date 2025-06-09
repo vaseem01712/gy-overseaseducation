@@ -56,7 +56,7 @@ const RussiaMbbs = () => {
             Choosing to study MBBS in Russia provides students with a robust medical education, international exposure, and the opportunity to fulfill their aspirations of becoming medical professionals.
           </p>
           <br></br>
-          <Link to="/contact-us" className="bg-blue-950 text-white font-bold py-2 px-4 rounded-md hover:bg-blue-900 transition duration-300">
+          <Link to="/contact" className="bg-blue-950 text-white font-bold py-2 px-4 rounded-md hover:bg-blue-900 transition duration-300">
   Enroll Now
 </Link>
         </div>

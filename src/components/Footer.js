@@ -35,7 +35,7 @@ const Footer = () => {
             </p>
             <p className="flex items-center">
               <FaEnvelope className="text-lg mr-2 text-slate-300 hover:text-white" />
-              info@gyoverseaseducation.com
+              info@gyoverseas.com
             </p>
           </div>
         </div>
