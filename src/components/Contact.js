@@ -20,7 +20,7 @@ const Contact = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post("https://tiny.docpresentation.com/api/contact-us", form);
+      await axios.post("https://gy.docpresentation.com/api/contact-us", form);
       alert("Message received! We’ll respond to you shortly.");
       setForm({ firstName: "", lastName: "", email: "", phone: "", message: "" }); // reset form
     } catch (err) {
